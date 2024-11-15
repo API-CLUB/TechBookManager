@@ -1,6 +1,6 @@
 Tech Book Manger
-# 📚 Tech Books Manager App
-## 📄Descripción **Tech Books Manager App** es una aplicación de consola desarrollada en Java que permite a los usuarios gestionar una colección de libros técnicos de programación. La aplicación proporciona una interfaz interactiva en la consola que permite realizar varias operaciones sobre la colección, como añadir, ver, y eliminar libros.
+# 📚 BooksManager App
+📄Descripción Tech Books Manager App es una aplicación de consola desarrollada en Java que permite a los usuarios gestionar una colección de libros técnicos de programación. La aplicación proporciona una interfaz interactiva en la consola que permite realizar varias operaciones sobre la colección, como añadir, ver, y eliminar libros.
 ## ✨ Características :
 **🆕Añadir Libro**: Agrega un libro proporcionando título, autor e ISBN. El ISBN debe seguir el formato de una letra seguida de tres números (por ejemplo, A123). 
 - **👓Ver todos los libros**: Muestra la lista completa de libros en la colección. 
@@ -9,7 +9,7 @@ Tech Book Manger
 - **❌Salir de la aplicación**: Cierra el programa.📚 Tech Books Manager App
 Aquí tienes el **punto 7** en formato `README.md`:
 
-# Principios de Diseño Aplicados
+## 📂Principios de Diseño Aplicados
 
 Este sistema de gestión de libros está diseñado siguiendo principios de diseño orientados a objetos para garantizar modularidad, extensibilidad y facilidad de mantenimiento. A continuación, se describen algunos de los principios aplicados:
 
@@ -32,7 +32,7 @@ Cada clase en el sistema tiene una única responsabilidad clara:
 ---
 
 Este diseño modular y flexible permite que el sistema sea fácilmente expandible para soportar nuevos tipos de almacenamiento o interfaces de usuario (por ejemplo, una interfaz gráfica), mejorando su capacidad de adaptación a futuras necesidades.
-```
+
 ## 📂 Estructura del Proyecto
  La aplicación sigue una estructura de paquetes para organizar el código de acuerdo a sus responsabilidades:
 
@@ -183,6 +183,8 @@ Puedes acceder al tablero de Jira para ver el progreso del proyecto y el estado 
 ### 📝 Diagramas en Draw.io
 
 Para ver y editar los diagramas del proyecto, utiliza el siguiente enlace a Draw.io:
+
+- [Draw.io - Diagramas del Proyecto](https://drive.google.com/file/d/1uBBDb_S9NP8q_nvbcwhBTsAeaM8q8FOD/view?usp=sharing )
 
 - [Draw.io - Diagramas del Proyecto](https://drive.google.com/file/d/1uBBDb_S9NP8q_nvbcwhBTsAeaM8q8FOD/view?usp=sharing )
 
